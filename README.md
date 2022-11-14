@@ -2,8 +2,8 @@
 input format must be
 
 ///////////
-multiplier
-multiplicant
+multiplier\n
+multiplicant\n
 base
 //////////
 
